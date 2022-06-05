@@ -20,10 +20,7 @@
     <br />
     <a href="https://github.com/JetBerri/Chocapic-Stealer/issues">Report Bug</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+
 
 # What is it?
 This is a Stealer that allows you to steal and decrypt the stored passwords from your victim, it also grabs the Discord token. 
