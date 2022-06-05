@@ -11,7 +11,7 @@ This is a Stealer that allows you to steal and decrypt the stored passwords from
 
 Available browsers:
 
-```json
+```
     'Chrome':,
     'Brave':,
     'Edge':,
