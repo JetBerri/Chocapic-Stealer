@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/JetBerri/Chocapic-Stealer">
-    <img src="assets/logo.png" alt="Logo" width="150" height="150">
+    <img src="logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Chocapic-Stealer</h3>
