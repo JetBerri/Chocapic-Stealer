@@ -27,13 +27,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#licence">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
 
 # What is it?
 This is a Stealer that allows you to steal and decrypt the stored passwords from your victim, it also grabs the Discord token. 
