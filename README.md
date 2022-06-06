@@ -68,7 +68,7 @@ DISCORD_WEBHOOK = 'discord_webhook'
 
 For using and running this as a python file you will need:
   - A Windows PC
-  - Pyinstaller `pip install pyinstaller
+  - Pyinstaller `pip install pyinstaller`
   - The requeriments in `requeriments.txt`
   - And for running the malware as a pytthon file: `pysqlite3, pygame, pypiwin32, shutil and base64`
   
